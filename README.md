@@ -1,5 +1,6 @@
 # AI-Powered Self-Healing Test Automation Framework
 
+![Tests](https://github.com/simran2217/Self_Healing_Test_Framework/actions/workflows/tests.yml/badge.svg) This displays a live 'passing' badge that updates automatically.
 A Selenium/Java test automation framework that automatically recovers from broken
 element locators instead of failing outright — simulating how real UI changes
 (an ID or class name changing after a release) break traditional automated tests.
